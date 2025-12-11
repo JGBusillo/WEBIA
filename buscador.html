@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de Materiales</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 10px;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select, input[type="number"], button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #resultado {
+            margin-top: 30px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            min-height: 50px;
+            background-color: #e9ecef;
+        }
+        .material-ficha p {
+            margin: 5px 0;
+        }
+        .titulo-resultado {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: #28a745;
+        }
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+        }
+    </style>
+<style type="text/css">
+.grande { font-size: 60px; }
+</style>
+<script>
+// Escribir aqui el código Javascript
+</script>
+</head>
+<body>
+
+<div class="container">
+    <h1>Buscador de Materiales por Propiedad</h1>
+
+    <div class="form-group">
+        <label for="propiedad">1. Seleccione la Propiedad a Buscar:</label>
+        <select id="propiedad">
+            <option value="Precio [USD/kg]">Precio [USD/kg]</option>
+            <option value="Densidad [kg/m^3]">Densidad [kg/m^3]</option>
+            <option value="Modulo de Young [GPa]">Módulo de Young [GPa]</option>
+            <option value="Esfuerzo de Fluencia [MPa]">Esfuerzo de Fluencia [MPa]</option>
+            <option value="Esfuerzo Último [MPa]">Esfuerzo Último [MPa]</option>
+            <option value="Elongación [%]">Elongación [%]</option>
+            <option value="Dureza [Vickers]">Dureza [Vickers]</option>
+            <option value="Tenacidad a la fractura [MPa m^1/2]">Tenacidad a la fractura [MPa m^1/2]</option>
+            <option value="Temperatura de fusión [K]">Temperatura de fusión [K]</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="valor">2. Ingrese el Valor de Referencia:</label>
+        <input type="number" step="any" id="valor" placeholder="Ej: 1500 (para Densidad)">
+    </div>
+
+    <button onclick="buscarMaterial()">🔍 Buscar Material Más Cercano</button>
+
+    <h2>Resultado de la Búsqueda</h2>
+    <div id="resultado">
+        <p>Esperando la búsqueda...</p>
+    </div>
+</div>
+
+<script>
+    // Nombre del archivo CSV
+    const NOMBRE_ARCHIVO = 'Base_de_datos_materiales.xlsx - Hoja 1.csv';
+    let datosMateriales = [];
+    let cabeceras = [];
+
+    // Función para cargar y parsear el archivo CSV
+    async function cargarDatos() {
+        try {
+            document.getElementById('resultado').innerHTML = '<p>Cargando datos...</p>';
+            const response = await fetch(NOMBRE_ARCHIVO);
+            
+            if (!response.ok) {
+                throw new Error(`Error de red o el archivo no existe: ${response.statusText}`);
+            }
+
+            const textoCSV = await response.text();
+            
+            // Separar líneas y luego columnas
+            const lineas = textoCSV.split('\n').filter(line => line.trim() !== '');
+            if (lineas.length === 0) {
+                throw new Error('El archivo CSV está vacío.');
+            }
+
+            // La primera línea son las cabeceras
+            cabeceras = lineas[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            
+            // Las siguientes líneas son los datos
+            datosMateriales = lineas.slice(1).map(linea => {
+                // Usamos una expresión regular para manejar comas dentro de comillas (si las hubiera)
+                const valores = linea.match(/(".*?"|[^",\s]+)(?=\s*,|\s*$)/g) || [];
+
+                // Si la fila tiene el número correcto de columnas, la procesamos
+                if (valores.length === cabeceras.length) {
+                    let material = {};
+                    cabeceras.forEach((cabecera, i) => {
+                        // Limpiar comillas y convertir a número si es posible
+                        let valor = valores[i].trim().replace(/"/g, '');
+                        material[cabecera] = valor;
+                    });
+                    return material;
+                }
+                return null;
+            }).filter(m => m !== null);
+
+            document.getElementById('resultado').innerHTML = `<p style="color: green;">✅ Datos cargados: ${datosMateriales.length} materiales listos para buscar.</p>`;
+
+        } catch (error) {
+            console.error("Error al cargar o parsear el CSV:", error);
+            document.getElementById('resultado').innerHTML = `<p class="error">❌ ERROR: No se pudo cargar el archivo "${NOMBRE_ARCHIVO}". Asegúrate de que esté en la misma carpeta. Detalle: ${error.message}</p>`;
+        }
+    }
+
+    // Función principal de búsqueda (el equivalente a encontrar_valor_mas_cercano en Python)
+    function encontrarValorMasCercano(columnaBusqueda, valorReferencia) {
+        let mejorMaterial = null;
+        let minimaDiferencia = Infinity;
+        let valorEncontrado = null;
+
+        for (const material of datosMateriales) {
+            const valorPropiedadStr = material[columnaBusqueda];
+            
+            // Intentar convertir a número (similar a pd.to_numeric con errors='coerce')
+            const valorNumerico = parseFloat(valorPropiedadStr);
+
+            // Verificar si es un número válido
+            if (!isNaN(valorNumerico)) {
+                const diferencia = Math.abs(valorReferencia - valorNumerico);
+
+                if (diferencia < minimaDiferencia) {
+                    minimaDiferencia = diferencia;
+                    mejorMaterial = material;
+                    valorEncontrado = valorNumerico;
+                }
+            }
+        }
+
+        return { material: mejorMaterial, valorEncontrado, minimaDiferencia };
+    }
+
+    // Función que se llama al hacer clic en el botón
+    function buscarMaterial() {
+        const columnaBusqueda = document.getElementById('propiedad').value;
+        const valorReferenciaStr = document.getElementById('valor').value;
+        const resultadoDiv = document.getElementById('resultado');
+
+        if (!valorReferenciaStr) {
+            resultadoDiv.innerHTML = '<p class="error">⚠️ Por favor, ingrese un valor de referencia.</p>';
+            return;
+        }
+
+        const valorReferencia = parseFloat(valorReferenciaStr);
+
+        if (isNaN(valorReferencia)) {
+            resultadoDiv.innerHTML = '<p class="error">⚠️ Entrada inválida. Por favor, ingrese un número decimal o entero para el valor.</p>';
+            return;
+        }
+        
+        if (datosMateriales.length === 0) {
+            resultadoDiv.innerHTML = '<p class="error">⚠️ Los datos aún no se han cargado. Intente recargar la página o verificar el archivo CSV.</p>';
+            return;
+        }
+
+        const { material, valorEncontrado, minimaDiferencia } = encontrarValorMasCercano(columnaBusqueda, valorReferencia);
+
+        if (material === null) {
+            resultadoDiv.innerHTML = '<p class="error">❌ Búsqueda fallida: No se encontraron valores numéricos válidos en la columna seleccionada.</p>';
+        } else {
+            let htmlResultado = '<div class="material-ficha">';
+            htmlResultado += '<p class="titulo-resultado">--- 🔍 Resultado de la Búsqueda ---</p>';
+            htmlResultado += `<p>Criterio: <strong>${columnaBusqueda}</strong></p>`;
+            htmlResultado += `<p>Valor de referencia: <strong>${valorReferencia}</strong></p>`;
+            htmlResultado += `<p>Material Encontrado: <strong>${material['Nombre']}</strong></p>`;
+            htmlResultado += `<p>Valor en el material encontrado: <strong>${valorEncontrado.toFixed(4)}</strong></p>`;
+            htmlResultado += `<p>Diferencia absoluta: <strong>${minimaDiferencia.toFixed(4)}</strong></p>`;
+            
+            htmlResultado += '<p class="titulo-resultado" style="margin-top: 20px; color: #333;">--- Ficha Completa del Material Más Cercano ---</p>';
+            
+            // Imprimir todos los datos del material encontrado
+            for (const key of cabeceras) {
+                // Omitir columnas con valores vacíos para una visualización más limpia
+                if (material[key]) {
+                    htmlResultado += `<p><strong>${key.replace(/\[.*\]/, '').trim()}</strong>: ${material[key]}</p>`;
+                }
+            }
+            
+            htmlResultado += '</div>';
+            resultadoDiv.innerHTML = htmlResultado;
+        }
+    }
+
+    // Cargar los datos automáticamente al cargar la página
+    window.onload = cargarDatos;
+
+</script>
+
+
+
+</body></html>

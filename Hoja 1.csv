@@ -1,0 +1,913 @@
+Nombre,Familia,Precio [USD/kg],Densidad [kg/m^3],Modulo de Young [GPa],Esfuerzo de Fluencia [MPa],Esfuerzo Último [MPa],Elongación [%],Dureza [Vickers],Tenacidad a la fractura [MPa m^1/2],Temperatura de fusión [K],Fuente,Persona
+Aerogel,Cerámicos,120.00,10.00,0.00,0.00,0.02,0.00,1.00,4.80,773.00,www.matweb,2020-2
+Manta Aislamiento Zirconia-alumina,Cerámicos,130.00,96.00,205.00,400.00,1400.00,,100.00,5.60,2281.15,DiaTerm. interempresas. MatWeb,Diego Rojas
+OXIDO DE SILICIO,Cerámicos,8.00,180.00,66.30,,300.00,,3500.00,0.67,1988.15,MATWEB,2020-2
+Acetato Butirado de Celulosa,Cerámicos,164.00,800.00,50.00,,300.00,,340.00,2.50,,Matweb. Precio ,Nikolai Fandiño
+Bentonita,Cerámicos,3.12,1360.00,2.00,1.56,55.00,20.00,250.00,3.40,1473.15,researchgate . Matweb .  skb. marphil,Diego Rojas
+Arenisca suave,Cerámicos,2.00,1600.00,1.00,,0.00,,89.00,5.60,,Matweb,Pablo Galvis
+Porcelana,Cerámicos,4.20,1730.00,55.00,,21.00,,2000.00,0.67,1370.00,srvcalidad,2020-2
+CeramTec 447 Cordierite,Cerámicos,20.00,1800.00,125.00,17.20,123.00,,280.00,12.00,1373.15,Matweb. Costos,Argoty Avance 8
+Cemento Portland,Cerámicos,0.23,2010.00,33.00,,0.91,0.00,420.00,7.90,1873.15,Matweb. Propiedades. Precio,Daisy Gutiérrez
+Nitruro de Boro,Cerámicos,1704.00,2030.00,55.00,,25.00,0.00,5000.00,3.90,3246.00,Azom. Temperatura. Propiedades. Precio,2020-2
+Arenisca Dura,Cerámicos,2.50,2100.00,60.00,,0.02,,344.00,1.50,,Matweb,Pablo Galvis
+Dióxido de silicio,Cerámicos,20.00,2100.00,65.00,,69.00,0.00,610.00,7.00,1986.00,Azom . Temperatura. Propiedades . Precio,2020-2
+Vidrio de cuarzo,Cerámicos,43.00,2200.00,72.00,30.00,48.00,0.00,1260.00,1.10,1300,Matweb . Azom .Precio,Laura Moreno
+Cuarzo fundido,Cerámicos,36.00,2200.00,75.00,,700.00,,1000.00,1.50,1988.15,http://www.matweb.com/,2020-2
+Silicato de titanio. 7971,Cerámicos,7.72,2205.00,68.00,30.30,30.30,0.05,90.85,6.40,1280,Ces Edupack 2019,ivan gongora 
+Vidrio Pyrex,Cerámicos,3.00,2230.00,67.00,,300.00,,700.00,0.80,1700.00,MATWEB,2020-2
+Grafito,Cerámicos,0.33,2260.00,10.00,,98.00,,200.00,1.45,3800.00, hojas-de-grafito,2020-2
+SIGRAFINE® EK3205,Cerámicos,35.00,2300.00,30.00,85.00,260.00,,120.00,9.60,823.15,Sglcarbon. Costos,Argoty Avance 10
+CORDIERTIA,Cerámicos,200.00,2300.00,125.00,40.00,15.00,,300.00,0.99,1100.00,MATWEB,2020-2
+Yeso,Cerámicos,0.33,2320.00,24.00,,12.00,,24.00,0.46,1723.15,http://www.matweb.com/,2020-2
+Concreto,Cerámicos,0.34,2400.00,41.00,,40.00,5.00,400.00,1.40,,,2020-2
+Caliza,Cerámicos,10.10,2400.00,45.00,,32.00,,400.00,0.77,1172.00,http://www.matweb.com/,2020-2
+VIDRIO DE BOROSILICATO,Cerámicos,8.82,2400.00,70.00,,280.00,,600.00,0.77,1073.15,MATWEB,2020-2
+Piropilita tratada termicamente a 1250 °C,Cerámicos,1038.00,2400.00,300.00,34.40,151.60,,858.00,3.90,1873.15,Mathmatch. Costos,Argoty Avance 9
+ANDESITA,Cerámicos,24.00,2425.00,40.00,,32.00,,400.00,0.76,1400.00,MATWEB,2020-2
+BORURO DE CALCIO,Cerámicos,150.00,2430.00,451.00,,600.00,,1110.00,2.80,2508.15,MATWEB,2020-2
+Gres,Cerámicos,13.00,2450.00,70.00,,11.00,25.00,5.50,1.30,1473.15,materconstrucc.revistas,2020-2
+Óxido de boro,Cerámicos,6.00,2460.00,410.00,,350.00,,1000.00,3.20,753.00,Boron_trioxide,2020-2
+Vidrio de cal sodada. 0080,Cerámicos,1.54,2465.00,70.00,32.60,32.60,0.05,461.50,6.45,790,Ces Edupack 2019,ivan gongora 
+Serpentina,Cerámicos,13.80,2500.00,45.00,,23.00,,400.00,1.20,1808.15,http://www.matweb.com/,2020-2
+Carburo de boro,Cerámicos,25.00,2500.00,400.00,,410.00,0.00,3200.00,4.20,2680.00,Azom . GoodFellow . Precio,2020-2
+Vitrocerámica Mecanizable ,Cerámicos,32.50,2520.00,65.00,,34.00,0.00,400.00,1.54,1589.00,Azom. GoodFellow. Temperatura. Propiedades. Precio,2020-2
+Ceramica de Vidrio Mecanizable,Cerámicos,247.00,2520.00,66.90,,25.50,,450.00,1.53,,Matweb. Precio ,Nikolai Fandiño
+Granito,Cerámicos,1.00,2600.00,40.00,,9.50,,500.00,2.24,1500.00,http://www.matweb.com/,2020-2
+Marmol,Cerámicos,1.80,2600.00,60.00,75.00,10.00,,700.00,0.53,573.20,http://www.matweb.com/,2020-2
+Cuarzo cristalino,Cerámicos,280.00,2649.00,87.00,,700.00,,1161.00,0.57,1743.15,Matweb. Propiedades. Precio,Daisy Gutiérrez
+Esteatita,Cerámicos,13.00,2650.00,103.00,,103.00,,530.00,2.00,1903.00,Coorstek .Temperatura. STC. Propiedades. Precio,2020-2
+Vidrio transparente de estroncio alcalino. 9068,Cerámicos,7.24,2675.00,68.90,30.75,30.75,0.05,91.25,6.34,779,Ces Edupack 2019,ivan gongora 
+Cuarcita,Cerámicos,250.00,2699.00,379.00,170.00,330.00,,2070.00,3.70,,Matweb. Precio ,Jonathan Acevedo
+Calcita,Cerámicos,28.00,2700.00,69.90,,12.00,,120.00,0.32,1603.15,http://www.matweb.com/,2020-2
+CARBURO DE VANADIO,Cerámicos,105.00,2710.00,344.00,,350.00,,2950.00,7.30,3003.15,MATWEB,2020-2
+Silicato de bario. 7059,Cerámicos,4.16,2755.00,68.00,30.30,30.30,0.05,90.85,6.40,916,Ces Edupack 2019,ivan gongora 
+Diabasa,Cerámicos,1.30,2800.00,85.00,,70.00,,600.00,1.20,1900.73,http://www.matweb.com/,2020-2
+Basalto,Cerámicos,1.30,2850.00,80.00,,484.00,,1400.00,0.63,2150.15,http://www.matweb.com/,2020-2
+Diorita,Cerámicos,30.00,2850.00,85.00,30.00,303.00,,700.00,10.20,2500,Matweb. Costos,Argoty Avance 7
+Oxido de Berilio Thermalox 995,Cerámicos,25.68,2850.00,345.00,150.00,152.00,,106.30,3.50,2848.15,MatWeb. Costos,Nixon David Moreno
+Oxido de beriliro (BeO),Cerámicos,40.00,2900.00,370.00,,140.00,0.00,1200.00,1.30,2800.00,Azom. Materials. MakeitFrom,2020-2
+Mullita,Cerámicos,0.50,3000.00,150.00,,60.00,,774.00,0.98,2153.15,http://www.matweb.com/,2020-2
+Gabro,Cerámicos,0.58,3017.00,211.00,180.00,230.00,0.10,920.00,1.18,,Matweb. Precio ,Jonathan Acevedo
+Hidroxiapatita de calcio,Cerámicos,25.00,3100.00,10.00,,44.00,,231.00,0.75,1373.15,Matweb. Propiedades. Tenacidad. Precio,Daisy Gutiérrez
+Titanato de Aluminio,Cerámicos,10.64,3100.00,20.00,25.00,30.00,,510.00,4.00,2113.15,Matmatch. Costos,Nixon David Moreno
+Carburo de silicio,Cerámicos,680.00,3100.00,420.00,,4600.00,,2500.00,5.43,2800.00,MATWEB,2020-2
+Fluoruro de magnesio,Cerámicos,3.20,3148.00,138.00,,60.00,,1200.00,0.43,1550.00,http://www.matweb.com/,2020-2
+Nitruro de silicio,Cerámicos,150.00,3250.00,300.00,,537.00,0.00,1600.00,7.50,2173.00,Azom.GoodFellow. Materials. MakeitFrom. STC. Precio,2020-2
+SIALON,Cerámicos,60.00,3250.00,300.00,,40.00,,1500.00,7.00,1700.00,MATWEB,2020-2
+Nitruro de aluminio,Cerámicos,1148.00,3330.00,348.00,,270.00,,1800.00,2.75,2780,Coorstek .Azom . Article .Precio,Laura Moreno
+Gneis,Cerámicos,0.65,3349.00,135.00,130.00,320.00,0.11,970.00,1.40,,Matweb. Precio ,Jonathan Acevedo
+Óxido de aluminio ferro P87,Cerámicos,67.00,3480.00,148.00,,124.00,,985.00,3.90,,Matweb,Pablo Galvis
+85% alúmina. cuerpo vítreo,Cerámicos,1.75,3543.00,240.00,92.00,160.00,1.00,570.00,12.00,1673,Matweb. Precio ,Jonathan Acevedo
+Oxido de magnesio (MgO),Cerámicos,1.00,3600.00,207.00,,126.00,0.00,1300.00,2.75,390.00,Azom. Materials. Precio,2020-2
+Alúmina GBC Grado 92,Cerámicos,150.00,3650.00,10.00,,190.00,,1300.00,6.50,1773,Matweb,Pablo Galvis
+"		CeramTec V 38 Alúmina. 96.0% Al2O3-SiO2",Cerámicos,2.80,3737.00,297.00,210.00,350.00,2.40,1620.00,10.00,1473, Matweb. Precio ,Jonathan Acevedo
+Alúmina 99.5%,Cerámicos,1.45,3900.00,300.00,,300.00,0.00,1765.00,4.50,2345.15,Azom . Matmacth . Propiedades . Precio,2020-2
+Alumina. alpha Al2O3. 99.5%,Cerámicos,172.00,3900.00,370.00,350.00,260.00,,2000.00,4.00,2700,Matweb. Costos,Argoty Avance 6
+Oxido de aluminio DUROX UHP,Cerámicos,10.40,3950.00,375.00,270.00,276.00,,169.77,5.00,2323.15,MatWeb. Costos,Nixon David Moreno
+Oxido de Aluminio Alúmina,Cerámicos,315.00,3960.00,370.00,,300.00,,1365.00,4.00,2054,Matweb. Precio ,Nikolai Fandiño
+Zafiro Mateck (AL2o3),Cerámicos,400.00,3980.00,462.60,,162.90,,2200.00,7.70,2303,Matweb,Pablo Galvis
+Alúmina endurecida con Zirconia ZTA14,Cerámicos,1018.00,4170.00,338.00,,344.00,,1400.00,6.00,1773.00,Azom . Ceramtec . Chemsun . STC,2020-2
+Dioxido de titanio,Cerámicos,10.00,4200.00,120.00,225.00,110.00,,980.00,4.56,2098.15,http://www.matweb.com/,2020-2
+Barium Boride  bab6,Cerámicos,3.24,4350.00,271.00,253.00,800.00,,20.10,2.10,3043.15,sciencedirect .  americanelements . funcmater,Diego Rojas
+Diboruro de titanio,Cerámicos,79.00,4460.00,540.00,,350.00,0.00,3060.00,5.50,3500.00,Azom . GoodFellow . Temperatura . Propiedades. Precio,2020-2
+Sulfuro de calcio y lantano,Cerámicos,1.50,4500.00,96.00,105.00,60.00,,570.00,0.53,2100.00,http://www.matweb.com/,2020-2
+Sulfuro de calcio y lantano,Cerámicos,23.50,4530.00,96.00,85.00,127.00,,565.00,0.53,2053.15,Matmatch. Costos,Nixon David Moreno
+BORURO DE CERIO,Cerámicos,400.00,4790.00,379.00,,120.00,,1400.00,3.20,2823.15,MATWEB,2020-2
+sulfuro de cadmio,Cerámicos,60.00,4826.00,45.00,,80.00,,157.00,1.30,1750.00,MATWEB,2020-2
+Fluoruro de bario,Cerámicos,10.00,4830.00,65.40,,26.90,,157.00,7.90,1627.15,Matweb. Propiedades. Precio ,Daisy Gutiérrez
+CARBURO DE TITANIO,Cerámicos,516.00,4940.00,459.00,59.00,258.00,,3200.00,6.72,3338.15,MATWEB,2020-2
+Ferrita ceramica Alliance,Cerámicos,20.00,5000.00,150.00,34.50,50.00,,510.00,8.00,1528.15,Matmatch. Costos,NIxon David Moreno
+Titanato de estroncio,Cerámicos,10.00,5110.00,180.00,,600.00,,1700.00,5.87,2350.00,MATWEB,2020-2
+Recubrimiento de nitruro de titanio,Cerámicos,8.50,5200.00,600.00,,400.00,,1969.00,2.30,3223.15,http://www.matweb.com/,2020-2
+Arseniuro de galio,Cerámicos,282.50,5316.00,85.00,,800.00,24.00,418.00,0.70,1511.15,Matweb. Propiedades. Fluencia. Tenacidad. Precio,Daisy Gutiérrez
+Titanato de bario,Cerámicos,4.60,5500.00,67.00,59.30,52.00,,1600.00,0.75,1898.15,POLYMERS,2020-2
+Zirconia estabilizada con magnesia,Cerámicos,2.30,5500.00,200.00,280.00,350.00,,93.00,0.90,2125.15,http://www.matweb.com/,2020-2
+Óxido de cinc,Cerámicos,29.24,5606.00,115.00,,300.00,,507.00,1.23,2248.00,es.wikipedia.org,2020-2
+Oxido de Circonio  ZrO2,Cerámicos,50.00,5680.00,210.00,230.00,330.00,32.00,11.77,15.00,2988.15,Matweb  .  Azom . Alibaba,Diego Rojas
+Zirconia estabilizada con itria ,Cerámicos,563.00,6020.00,210.00,,550.00,,1250.00,10.00,2973.00,GoodFellow. STC,2020-2
+Niobato de plomo y magnesio,Cerámicos,250.00,6100.00,61.00,,2000.00,,1000.00,15.00,443.00,MATWEB,2020-2
+Zirconia,Cerámicos,254.00,6135.00,150.00,,400.00,0.00,1300.00,10.00,2900.00,Azom. Ceramtec. STC. Precio,2020-2
+nitruro de galio,Cerámicos,550.00,6150.00,295.00,,2900.00,,1224.00,0.79,383.00,MATWEB,2020-2
+CARBURO DE CIRCONIO ,Cerámicos,110.00,6645.00,385.50,,800.00,0.00,2000.00,3.00,3673.15,MATWEB,2020-2
+Carburo de Cromo,Cerámicos,1436.00,6680.00,379.50,,1200.00,,2280.00,8.60,3800,Matweb. Precio ,Nikolai Fandiño
+CARBURO DE NIOBIO,Cerámicos,175.00,7710.00,433.50,,244.00,,2400.00,7.70,3773.15,MATWEB,2020-2
+CARBURO DE MOLIBDENO,Cerámicos,73.00,8690.00,390.00,,689.00,,1950.00,6.40,2778.15,MATWEB,2020-2
+Carburo de Hafnio,Cerámicos,1294.00,12200.00,352.00,,390.00,,2200.00,3.80,4082.00,Azom . MatWeb . TACS . Precio,2020-2
+CARBURO DE TANTALIO,Cerámicos,530.00,14300.00,481.50,193.50,291.00,,1790.00,6.63,4138.15,MATWEB,2020-2
+CARBURO DE HAFNIO,Cerámicos,180.00,14480.00,352.00,,689.00,0.01,2150.00,12.00,3273.15,MATWEB,2020-2
+CARBURO DE TUNGSTENO,Cerámicos,45.00,14800.00,420.00,140.00,344.00,0.00,2150.00,3.00,3058.15,MATWEB,2020-2
+erg aerospace duocel® aluminum metal foam,Compuestos,294.00,81.00,0.05,1.24,2.70,0.30,211.00,0.15,933.00,Distruidor  costo  metals,2020-2
+Balsa de grano final (0.095),Compuestos,8.42,98.95,0.07,11.00,15.00,4.00,56.00,9.80,363,Ces Edupack 2019,ivan gongora 
+DIAB Divinycell P 100 Sandwich Core Material,Compuestos,115.00,110.00,0.07,1.00,1.80,12.00,300.00,10.00,781.00,Matweb costo Research,2020-2
+Cymat A35620SC 020SS Stabilized Aluminum Foam,Compuestos,13.70,200.10,24.00,53.00,70.00,9.20,12.00,1.94,573,Matweb. Precio ,Jonathan Acevedo
+Compuestos aplicados 8007 Poliéster SMC,Compuestos,1.77,247.00,8.96,43.70,89.60,0.70,67.00,1.80,477,Matweb. Precio ,Jonathan Acevedo
+                ERG Aerospace Duocel® Aluminum Metal Foam,Compuestos,87.80,323.90,0.08,0.65,1.24,2.70,18.00,10.00,933,Matweb. Precio ,Jonathan Acevedo
+Madera de Abeto Noble,Compuestos,5.00,350.00,9.51,,0.04,,1290.00,9.50,,,Nikolai Fandiño
+Madera de Abeto magnifico ,Compuestos,4.00,360.00,8.62,,0.04,,1601.00,8.70,,,Nikolai Fandiño
+Madera de fresno negro americano,Compuestos,3.00,460.00,34.00,70.03,96.00,,2400.00,6.90,,,Nikolai Fandiño
+Compuesto aislante de polietileno Borealis Borlink ™ LE4244EHV. reticulable,Compuestos,0.27,921.70,0.07,1.57,3.40,12.00,19.00,1.97,413.15,Matweb. Precio ,Jonathan Acevedo
+Tablero de fibras (EHL),Compuestos,425.00,950.00,8.70,27.00,45.00,0.60,345.00,0.75,363,Ces Edupack 2019,ivan gongora 
+Polypropylene TPO Compound,Compuestos,35.00,990.00,1.75,23.00,30.00,6.00,30.00,34.00,533.15,Prospector. Costo,2020-2
+KR47035 Acrilonitrilo butadieno estireno + nylon (ABS+Nylon),Compuestos,7.00,1080.00,2.00,45.00,231.00,20.00,120.00,12.00,503.15,Prospector. ,2020-2
+PP+W50 (Polypropylene Reinforced with 50% Wood),Compuestos,3.50,1100.00,3.20,,20.00,1.50,120.00,34.00,408.15,Matmatch. Costo. LinkSpringer,2020-2
+DuraVision 5050 Methyl Methacrylate / ABS+TPU,Compuestos,3.75,1130.00,2.10,18.00,39.00,60.00,26.43,21.00,498.15,Prospector. Rochling. Costo,2020-2
+VESTALITE® P 311,Compuestos,150.00,1130.00,3.40,85.00,115.00,2.30,243.00,1.70,441.15,Mathmatch. Costos,Argoty Avance 18
+PA 6 MOS2,Compuestos,4.00,1140.00,3.10,82.00,84.00,30.00,16.31,34.00,493.00,Ensinger,2020-2
+PA 6 C OIL FILLED,Compuestos,2.40,1140.00,3.10,70.00,95.00,50.00,15.30,21.00,489.00,Ensinger,2020-2
+PA 66 WITH MOS2,Compuestos,3.40,1150.00,3.20,83.00,114.00,40.00,17.13,12.00,526.00,Ensinger. Alibaba,2020-2
+Epoxy Resin T26,Compuestos,5.30,1170.00,65.00,,354.00,5.60,105.00,0.62,,Costo itecma,2020-2
+PA12 GF30,Compuestos,1.50,1220.00,5.70,80.00,110.00,8.00,12.24,5.00,443.00,Performance Plastic. Matmach,2020-2
+S26T,Compuestos,75.00,1220.00,505.00,,1500.00,,1570.00,10.80,,https://www.matmatch.com/,2020-2
+S267,Compuestos,46.00,1220.00,505.00,,1750.00,,1570.00,10.80,,https://www.matmatch.com/,2020-2
+UT403 Policarbonato+PET,Compuestos,2.60,1230.00,2.30,58.00,232.00,,76.00,6.00,,Costo prospector,2020-2
+PA 66 CF20 (Poliamida reforzada con fibra de Carbono),Compuestos,3.60,1230.00,5.10,150.00,190.00,12.00,20.39,12.00,535.00,Matmatch.Akroplastic.Ensinger,2020-2
+S3X7(Carburo cementado),Compuestos,45.00,1245.00,530.00,,2150.00,,1560.00,10.70,,Matmatch,Pablo Galvis
+Poliamida 66 NC010,Compuestos,3.00,1270.00,7.80,82.00,155.00,3.00,146.00,1.10,533.15,Matmatch. Costos,NIxon David Moreno
+Tereftalato de polibutileno (PBT),Compuestos,15.00,1300.00,1.93,50.00,108.00,75.00,263.00,1.59,496.15,Matweb . Azom . Alibaba. Vickers,Diego Rojas
+PBT+ABS A 2020/620 GF 20 UV,Compuestos,2.00,1330.00,5.60,,80.00,2.00,230.00,23.00,499.15,Prospector. MatWeb. Costo,2020-2
+Phenolic NP320E,Compuestos,28.00,1340.00,3.50,,89.60,12.00,235.00,0.98,200,Matmatch,Laura Moreno
+Fenólico NP318,Compuestos,32.00,1350.00,7.60,,500.00,,90.00,9.80,,Matmatch,Pablo Galvis
+Phenolic NP660,Compuestos,120.00,1350.00,9.65,96.50,137.90,,100.00,1.60,403.15,Mathmatch. Matweb. Costos,Argoty Avance 17
+ELS nano,Compuestos,250.00,1360.00,4.80,106.00,178.00,4.00,25.80,12.00,614.00,Ensinger,2020-2
+PA 6 GF30 (Poliamida reforzada con fibra de Vidrio),Compuestos,3.30,1360.00,6.00,98.00,110.00,3.00,23.66,21.00,493.00,Ensinger. Matmach. Akroplastic,2020-2
+CTF40A,Compuestos,18.00,1360.00,490.00,,321.00,,1070.00,18.00,,https://www.matmatch.com/,2020-2
+DURACON Acetal (POM) copolímero + PUR,Compuestos,3.50,1370.00,1.55,,45.00,50.00,100.00,13.00,563.15,Prospector. Costo,2020-2
+PEEK WITH PTFE,Compuestos,70.00,1380.00,3.40,95.00,149.00,8.00,22.43,22.00,613.00,Ensinger,2020-2
+ABS Aleación de Poliester + GF,Compuestos,2.40,1380.00,6.05,145.45,86.50,2.60,389.00,3.50,300, Matweb. Alibaba ,Daisy Gutiérrez
+CTS30D,Compuestos,100.00,1384.00,512.00,,4300.00,,1425.00,12.20,,Matmatch,Pablo Galvis
+Phenolic NP322,Compuestos,1.77,1390.00,7.58,66.90,96.50,,304.87,7.80,383.15,songhan. Matmatch.Costos,NIxon David Moreno
+POM - C (AH-ELS),Compuestos,2.40,1410.00,1.80,42.00,56.00,11.00,9.78,11.00,442.00,Ensinger,2020-2
+PET WITH PTFE,Compuestos,6.50,1430.00,3.20,78.00,119.00,6.00,18.66,14.00,522.00,Ensinger,2020-2
+PEEK MOD PVX,Compuestos,230.00,1440.00,5.50,84.00,142.00,3.00,25.50,12.00,614.00,Ensinger. Alibaba,2020-2
+PEEK 90HMF40 ,Compuestos,155.00,1450.00,37.00,,98.00,1.20,88.50,21.00,616.00,Vicktress omnexus costo,2020-2
+KCR32,Compuestos,26.00,1450.00,580.00,,321.00,,1140.00,16.50,,https://www.matmatch.com/,2020-2
+Melamine NP329,Compuestos,135.00,1470.00,17.90,166.20,222.00,,95.00,7.60,403.15,Mathmatch. Costos,Argoty Avance 20
+Kevlar,Compuestos,60.00,1470.00,149.00,2900.00,3450.00,3.00,30.00,4.00,803.15,,Diego Rojas 
+POM-H WITH PTFE,Compuestos,6.80,1490.00,3.00,53.00,85.00,8.00,13.93,12.00,452.00,Ensinger,2020-2
+CTM14E,Compuestos,16.00,1490.00,615.00,,100.00,,1550.00,10.40,,https://www.matmatch.com/,2020-2
+Espuma de carbon ,Compuestos,1.30,1500.00,2.60,7.00,20.00,400.00,10.50,8.00,3970.15,Matweb .  Properties . indiamart,Diego Rojas
+CTU08L,Compuestos,89.00,1505.00,646.00,,3000.00,,2300.00,8.40,,Matmatch,Pablo Galvis
+KCR10,Compuestos,20.00,1515.00,660.00,,2800.00,,1780.00,10.10,,Matmatch,Pablo Galvis
+GC32 (cemented carbide),Compuestos,100.00,1540.00,580.00,2600.00,4000.00,,1130.00,18.00,1000,Mathmatch. Costos,Argoty Avance 19
+TECAPEEK CMF (Peek con aditivo ceramico),Compuestos,150.00,1600.00,5.50,102.00,105.00,7.00,29.16,21.00,612.00,Ensinger. Impact Special Metals,2020-2
+GRFP,Compuestos,8.8,1600,200,1250.00,1465,3.32,56,8.9,,,
+PA 66 GF 50,Compuestos,2.00,1610.00,8.70,250.00,265.00,2.70,11.73,24.00,530.00,Ensinger. Akroplastic,2020-2
+Fibra de carbono (Vinilister),Compuestos,42.00,1650.00,225.00,,136.00,1.60,88.45,11.20,3970,Matweb. Azom . Elements .Article .Precio,Laura Moreno
+FKuR Kunststoff Biograde (C 9550 Biodegradable Plastic Compound),Compuestos,3.20,1670.00,4.95,72.00,46.00,7.00,180.00,32.00,453.15,Prospector. MatWeb. Costo,2020-2
+TECACOMP LCP LDS ,Compuestos,9.00,1740.00,9.70,,85.00,1.60,321.00,15.00,583.15,Ensigner_LCPLDSblack1049426. Costo,2020-2
+Epoxy NP130,Compuestos,130.00,1800.00,18.60,151.70,344.70,,100.00,2.50,413.15,Mathmatch. Matweb. Costos,Argoty Avance 16
+CFRP,Compuestos,7.3,1800,225,1300.00,1600,2.15,60,12,,,
+PX 35 Carbon felt,Compuestos,15.00,1810.00,242.00,,4137.00,1.40,700.00,10.00,,springeropen Zoltek Matweb Costo ,2020-2
+MMC: Mg-fibra de carbono,Compuestos,135.00,1825.00,89.00,655.00,655.00,0.74,104.00,11.00,828,Ces Edupack 2019,ivan gongora 
+ Epoxy NP592,Compuestos,12.00,1900.00,225.00,,241.00,,316.00,3.60,404.15,Matweb.  Matmatch .Article,Laura Moreno
+"Lámina plana de viniléster reforzado con vidrio Bedford Plastics. 1/8 """,Compuestos,0.18,1938.00,241.00,33.76,51.70,15.20,71.00,3.40,293,Matweb. Precio ,Jonathan Acevedo
+Bone,Compuestos,5.19,1950.00,19.50,140.00,140.00,0.75,30.00,5.05,393,Ces Edupack 2019,ivan gongora 
+E20 Beryllium,Compuestos,8.00,2050.00,289.00,158.00,207.00,4.00,500.00,25.00,,Matmatch beryllium costo,2020-2
+AlBeMet® AM162,Compuestos,18.00,2070.00,197.00,193.00,262.00,2.00,123.00,32.00,1355.15,Matweb. Matmatch,2020-2
+AlBeCast 920® Composite (aluminum-beryllium metal matrix),Compuestos,25.00,2170.00,193.00,213.70,289.60,3.00,154.00,23.00,,Materion. Matmatch. Costo,2020-2
+A - Glass Fiber (Fibra de Vidrio Generica),Compuestos,2.35,2441.37,68.90,,3310.00,4.80,800.00,20.00,1000.15,Matweb Costo,2020-2
+MMC: Mg-B(f),Compuestos,135.00,2450.00,286.00,880.00,1055.00,0.45,145.00,5.50,921,Ces Edupack 2019,ivan gongora 
+S - Fibra de Vidrio,Compuestos,1.15,2460.00,86.90,,300.00,5.70,760.00,0.75,1711.5,Matweb.  Azom. Precio ,Daisy Gutiérrez
+Tyranno Fiber ,Compuestos,30.00,2480.00,390.00,300.00,550.00,1.70,15.20,3.80,1723.15,Matweb .  lookpolymers .  sciencedirect,Diego Rojas
+C- fibra de vidrio (generica),Compuestos,755.00,2540.00,68.90,,3310.00,4.80,600.00,8.90,,Matweb. Precio ,Nikolai Fandiño
+R-glass fiber,Compuestos,0.80,2540.00,85.50,,789.00,4.80,600.00,10.00,1773.00,Matweb agy glass costo,2020-2
+E - Glass Fiber ,Compuestos,3.25,2561.51,72.00,,521.00,4.80,700.00,0.50,1998.15,Matweb. Azo. Costo,2020-2
+Mafic Direct Basalt Roving 19 µm Diameter,Compuestos,2.16,2630.00,87.00,,650.00,3.50,867.00,18.00,1523.00,Matweb basaltex costo,2020-2
+SuoremEX (High Quality aerospace aluminium reinforced 25% silicon carbide),Compuestos,75.00,2800.00,115.00,400.00,570.00,3.00,460.00,16.00,821.15,Matmatch. Materion,2020-2
+Carburo de silicio ceramico,Compuestos,26.50,2900.00,320.00,,400.00,,2005.00,4.60,2720.00,Ceramic. Matmatch. Costos,NIxon David Moreno
+Electroconductive Alumina Composite (KA-EDM),Compuestos,0.88,4200.00,390.00,,1200.00,,2294.00,8.00,,Matmatch costo,2020-2
+CTF28T,Compuestos,90.00,6400.00,523.00,,2000.00,,1600.00,8.50,,Matmatch,Daisy Gutiérrez
+Ferro-Titanit C-Spezial,Compuestos,20.00,6500.00,292.00,,1500.00,,975.00,5.60,,Matmatch. Propiedades. Precio,Daisy Gutiérrez
+Ferro- titanit Nikro 128,Compuestos,580.00,6600.00,294.00,,1400.00,,62.00,25.00,,Costo Matmatch,2020-2
+Acero al Niquel SEW 385,Compuestos,34.44,8200.00,152.00,440.00,640.00,30.00,300.00,176.00,1728.65,Matmatch. Costos,NIxon David Moreno
+S4X7(Carburo Cementado),Compuestos,40.00,13050.00,525.00,,2300.00,,1490.00,11.60,,https://www.matmatch.com/,2020-2
+S40T,Compuestos,87.00,13250.00,530.00,,2400.00,,1440.00,13.50,,https://www.matmatch.com/,2020-2
+CTS24Z,Compuestos,89.00,14100.00,549.00,,4000.00,,1590.00,11.30,,Matmatch,Daisy Gutiérrez
+TSF44,Compuestos,20.00,14100.00,549.00,,4600.00,,1745.00,9.80,,Matmatch costo,2020-2
+CTF25E,Compuestos,20.00,14150.00,543.00,,3500.00,,1310.00,15.00,,https://www.matmatch.com/,2020-2
+CTE25A (Hot roll in cemented carbide and ceramic),Compuestos,40.00,14300.00,555.00,,2700.00,12.50,1050.00,20.00,,Ceratizit. Matmatch. Costo1. Costo2,2020-2
+TMG30,Compuestos,70.00,14400.00,574.00,,3600.00,,1580.00,9.30,,Matmatch costo,2020-2
+MG18,Compuestos,35.00,14450.00,580.00,,3700.00,,1680.00,9.40,,https://www.matmatch.com/,2020-2
+CTS20L (cemented carbide),Compuestos,1.00,14450.00,580.00,,344.00,,1680.00,9.40,3000.00,Matmatch costo azo,2020-2
+CTS18D,Compuestos,67.00,14550.00,586.00,,3000.00,,1610.00,3.50,,Matmatch,Laura Moreno
+CTS15D,Compuestos,32.00,14750.00,610.00,,3800.00,7.50,1740.00,9.50,,https://www.matmatch.com/,2020-2
+ CTS12D (carbon-fibre and glass-fibre reinforced),Compuestos,214.31,14800.00,624.00,,3700.00,6.00,1800.00,8.80,,Ceratizit (Pag 19). Matmatch,2020-2
+CTM16N(Carburo Cementado),Compuestos,14.00,14850.00,605.00,,2400.00,,1300.00,18.80,,https://www.matmatch.com/,2020-2
+CTF12E,Compuestos,25.00,14950.00,624.00,,2000.00,,1620.00,9.90,,https://www.matmatch.com/,2020-2
+CTU05E,Compuestos,28.00,15250.00,670.00,,2750.00,,2300.00,5.70,,https://www.matmatch.com/,2020-2
+CTS06M,Compuestos,22.00,15300.00,665.00,,2600.00,,1950.00,8.50,,https://www.matmatch.com/,2020-2
+HPM 1700 Tungsten High Density Composite,Compuestos,45.00,17000.00,320.00,520.00,850.00,12.00,320.00,15.00,,Matweb. H.C. Starck,2020-2
+Densimet 176 Tungsten Heavy Alloy,Compuestos,80.00,17150.00,360.00,,800.00,10.00,300.00,17.50,3400.00,https://www.matmatch.com/,2020-2
+Terbio Tb,Metales,919.00,827.00,50.00,60.00,140.00,12.00,38.00,67.00,1360,Matweb. Precio ,Nikolai Fandiño
+Plomo,Metales,2.12,1135.00,37.50,598.00,18.00,45.00,5.00,10.00,598,Matweb.  Azom.  Precio ,Daisy Gutiérrez
+"	Tungsten Carbide",Metales,38.29,1480.00,420.00,167.00,64.00,71.00,287.00,27.00,3058.15,scielo Matweb. Quiminet,2020-2
+Magnesio. AM20. fundido,Metales,2.83,1805.00,42.50,105.00,185.00,9.75,47.50,17.00,811,Ces Edupack 2019,ivan gongora 
+Magnesium AZ91D-F Alloy,Metales,2.75,1810.00,44.80,150.00,230.00,3.00,71.00,5.00,923.15,Matweb. Alibaba,2020-2
+Magnesium WE43-T6,Metales,95.00,1840.00,44.20,162.00,250.00,2.00,96.00,7.00,592.50,Matweb. Alibaba,2020-2
+"	Tungsteno",Metales,21.00,1930.00,400.00,156.00,47.00,53.00,310.00,30.00,3610.15,scielo Matweb. Quiminet,2020-2
+Aleación de berilio-aluminio. AlBeMet 162,Metales,411.00,2095.00,189.50,258.50,354.50,6.15,120.00,24.00,918,Ces Edupack 2019,ivan gongora 
+Silicio ,Metales,637.00,2330.00,112.40,,4000.00,5.00,900.00,12.00,1830,Matweb. Precio ,Nikolai Fandiño
+Boro. B,Metales,850.00,2599.00,440.00,127.00,244.00,11.00,260.00,3.20,2573,Matweb. propiedades. Precio ,Jonathan Acevedo
+DIN 3.2384 T6,Metales,0.60,2680.00,71.50,220.00,280.00,2.50,95.00,22.00,883.15,Mathmatch. Costos,Argoty Avance 4
+Aluminio 6061,Metales,10.00,2700.00,25.00,68.90,75.80,20.00,92.00,146.00,873.15,scielo Matweb. Quiminet,2020-2
+Aluminio serie 1000,Metales,3.00,2700.00,68.50,68.90,111.00,13.70,150.00,17.00,925.15,MatWeb. Alibaba,2020-2
+Aluminio 6005-T1,Metales,2.80,2700.00,69.00,105.00,170.00,16.00,46.00,76.00,903.75,Matweb. Alibaba ,Daisy Gutiérrez
+Aluminio 1060 - H12,Metales,2.60,2705.00,68.90,62.00,85.00,9.00,23.00,55.00,924.8,Matweb. Alibaba. Makeitfrom ,Daisy Gutiérrez
+ASTM AM50A manganeso de aluminio,Metales,24.50,2720.00,42.50,110.00,200.00,10.00,61.15,125.00,815.65,Mathmatch. Costos,Nixon David Moreno
+Aluminio 6262 T9,Metales,2.80,2720.00,70.00,342.50,365.00,6.00,180.00,25.00,888.00,Propiedades. Precio,2020-2
+Aluminio 3005 H12,Metales,2.60,2730.00,69.75,115.00,165.00,2.00,173.00,23.00,914.50,Propiedades. Precio,2020-2
+Aluminio 2024-T851,Metales,3.63,2780.00,72.40,400.00,455.00,5.00,146.00,15.00,286.85,Matweb . Alibaba,2020-2
+Aluminio 3003 H12,Metales,2.90,2800.00,69.00,110.00,130.00,11.00,170.00,22.00,913.00,Propiedades. Precio,2020-2
+Aluminio 3105 H14,Metales,2.30,2800.00,69.00,150.00,170.00,3.30,167.00,27.00,913.00,Propiedades. Precio,2020-2
+Aluminio 3103 H14,Metales,4.00,2800.00,72.00,92.00,130.00,9.80,168.00,18.00,913.00,Propiedades. Precio,2020-2
+Aluminio 2014 - O,Metales,2.45,2800.00,73.10,96.50,186.00,12.00,45.00,66.00,845.65,Matweb. Alibaba ,Daisy Gutiérrez
+Aluminio 7075-T651,Metales,4.80,2810.00,71.70,503.00,572.00,9.00,175.00,17.60,829.15,Matweb . Alibaba,2020-2
+Aluminio 7178-T651,Metales,22.80,2830.00,71.70,538.00,607.00,5.00,189.00,21.00,826.35,Matweb . Alibaba,2020-2
+Titanio 6A1-4V,Metales,22.50,4430.00,113.80,880.00,950.00,14.00,349.00,160.00,1905.15,Matweb . Alibaba,2020-2
+Titanio 5Al-2.5Sn (Grade 6),Metales,21.50,4480.00,117.00,827.00,861.00,15.00,349.00,108.00,1863.15,Matweb. Alibaba,2020-2
+Titanium Carbide. TiC,Metales,60.00,4940.00,451.00,193.00,254.00,43.00,95.00,160.00,3338.15,scielo Matweb. Quiminet,2020-2
+Cerio. Ce,Metales,4.51,6699.00,41.40,67.00,100.00,8.60,24.00,100.00,1068,Matweb. Precio ,Jonathan Acevedo
+Aleación de zinc-Cu-Ti. ILZRO 16. fundición a presión,Metales,3.53,7100.00,97.00,140.00,230.00,5.50,82.50,27.50,690,Ces Edupack 2019,ivan gongora 
+Zinc,Metales,2.45,7130.00,100.00,150.00,200.00,30.00,40.00,23.70,690.00,Azom,2020-2
+AMS 4880 Nickel aluminum bronze,Metales,28.91,7530.00,110.00,445.00,752.00,10.50,530.40,167.00,1319.15,Mathmatch. Costos,Nixon David Moreno
+Aleación de Berilio,Metales,900.00,7570.00,155.00,672.00,811.00,13.60,269.00,9.00,1283.15,MatWeb. Alibaba,2020-2
+Niquel-Aluminio-Bronce UNS C63000,Metales,16.00,7580.00,125.00,370.00,766.00,21.00,200.00,41.00,1308.15,Matweb. Alibaba,2020-2
+Bronce. CuAl10Fe3. C95200. fundido (bronce de aluminio),Metales,6.06,7640.00,101.50,185.00,545.00,29.00,115.00,56.85,1313,Ces Edupack 2019,ivan gongora 
+Acero Martensitico,Metales,2.50,7720.00,201.00,961.00,1180.00,13.70,526.00,190.00,1036.15,MatWeb.,2020-2
+AK Steel 430 Ferritic Stainless steel,Metales,18.00,7740.00,200.00,310.00,483.00,25.00,204.00,176.00,2750.15,scielo Matweb. Quiminet,2020-2
+ASTM A285 STEEL,Metales,0.59,7800.00,190.00,165.00,450.00,27.00,200.00,167.00,1777.5,Matweb . Alibaba.  tubingchina,Diego Rojas
+420 Stainless Steel,Metales,33.00,7800.00,200.00,170.00,115.00,65.00,641.00,187.00,1783.15,scielo Matweb. Quiminet,2020-2
+S355JR Laminado en frio,Metales,0.69,7800.00,200.00,325.00,680.00,18.00,187.00,36.00,1733.15,Mathmatch. Costos,Argoty Avance 2
+Nitrodur 8524 QT,Metales,30.00,7800.00,210.00,700.00,900.00,14.00,290.00,13.00,1900,Swiss Steel Group. Costos,Argoty Avance 5
+Aisi 6145 Normalizado,Metales,0.60,7800.00,210.00,620.00,940.00,22.00,248.00,25.00,1802.15,Mathmatch. Costos,Argoty Avance 1
+Duplex,Metales,11.30,7820.00,199.00,610.00,917.00,23.60,646.00,65.00,1323.15,MatWeb. Nexans,2020-2
+Acero AISI 1040,Metales,10.00,7845.00,200.00,290.00,525.00,20.00,155.00,134.00,1268.15,scielo Matweb. Quiminet,2020-2
+Acero AISI 1038,Metales,0.50,7845.00,205.00,485.00,570.00,12.00,170.00,143.00,1400,Matweb,Pablo Galvis
+Acero AISI 1095 ,Metales,1.20,7850.00,190.00,525.00,965.00,10.00,309.00,120.00,1788.15,Matweb . Alibaba.  Azom,Diego Rojas
+Acero de aleación AISI 4130,Metales,0.50,7850.00,190.00,419.00,628.65,25.50,207.00,187.00,1705.15,Matweb   . SteelPengbo. Azom,Diego Rojas
+Acero AISI 1035,Metales,0.50,7850.00,196.00,370.00,585.00,30.00,192.00,167.00,1843,Matweb,Pablo Galvis
+AISI 4340 Steel,Metales,1.47,7850.00,200.00,470.00,745.00,22.00,228.00,186.00,830.00,Matweb. Azom. Indiamart,2020-2
+AISI 4140 Alloy Steel,Metales,0.75,7850.00,200.00,415.00,655.00,25.70,207.00,176.00,1689.15,Matweb. Alibaba. Azom,2020-2
+Acero AISI1037,Metales,0.60,7850.00,200.00,279.00,510.00,18.00,143.00,176.00,1973,Matweb,Pablo Galvis
+ASTM A36,Metales,0.55,7850.00,200.00,250.00,400.00,20.00,167.50,134.00,1698.15,Matweb. SCIELO. Azom. Alibaba,Diego Rojas
+5160 Stainless Steel,Metales,17.00,7850.00,205.00,650.00,1025.00,55.00,301.00,193.00,1038.15,scielo Matweb. Quiminet,2020-2
+Acero AISI 1080,Metales,15.00,7850.00,205.00,585.00,965.00,12.00,309.00,98.00,1345.15,scielo Matweb. Quiminet,2020-2
+Acero AISI 1050,Metales,0.95,7850.00,205.00,415.00,725.00,20.00,241.00,100.00,1447.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+Acero AISI 1060,Metales,0.75,7850.00,205.00,485.00,814.00,17.00,254.00,120.00,1480.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+AISI 8620 Steel,Metales,0.65,7850.00,205.00,360.00,635.00,65.00,192.00,195.00,1027.15,scielo Matweb. Quiminet,2020-2
+Acero AISI 1070,Metales,0.63,7850.00,205.00,495.00,640.00,10.00,201.00,105.00,1490.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+Acero AISI 1141,Metales,0.58,7850.00,205.00,360.00,650.00,15.00,196.00,145.00,1467,Matweb,Pablo Galvis
+Acero AISI 1090,Metales,0.50,7850.00,205.00,540.00,696.00,10.00,207.00,115.00,1514.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+AISI 1045 Steel,Metales,2.50,7850.00,206.00,530.00,625.00,12.00,188.00,167.00,1523.15,Matweb. Alibaba,2020-2
+Acero AISI 1030,Metales,1.10,7850.00,206.00,345.00,550.00,32.00,188.00,107.00,1600.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+AISI 1021. Normalizado  ,Metales,0.70,7858.00,200.00,365.00,486.00,35.70,149.00,108.00,1198.15,MatWeb. Alibaba,2020-2
+AISI 1022. Normalizado,Metales,0.70,7858.00,205.00,360.00,485.00,34.00,149.00,100.00,1198.15,MatWeb. Alibaba,2020-2
+Acero AISI 1000,Metales,1.50,7860.00,201.00,450.00,649.00,19.80,197.00,90.00,1703.15,MatWeb . Alibaba,2020-2
+Hierro. Fe,Metales,0.06,7861.00,200.00,73.00,540.00,9.60,150.00,87.00,1653,Matweb. Precio . Propiedades,Jonathan Acevedo
+Acero 1020 cold rolled,Metales,0.80,7870.00,186.00,379.00,420.00,25.00,126.00,130.00,1093.15,scielo Matweb. Quiminet,2020-2
+AISI 1018 Steel,Metales,0.54,7870.00,200.00,415.00,585.00,18.00,149.00,110.00,1024.15,scielo Matweb. Quiminet,2020-2
+AISI 1015 laminado,Metales,0.50,7870.00,200.00,315.00,420.00,39.00,131.00,98.00,1110.00,MatWeb. Alibaba,2020-2
+AISI 1020 Carbon Steel,Metales,1.87,7870.00,205.00,350.00,420.00,15.00,126.00,56.00,1255.15,matweb. Azom. IndianMart,2020-2
+Acero AISI 1010,Metales,0.64,7870.00,205.00,305.00,365.00,20.00,108.00,76.00,1650.15,MatWeb. Alibaba,2020-2
+Acero AISI 1008,Metales,0.50,7872.00,200.00,170.00,305.00,30.00,88.00,35.00,1699.15,MatWeb. Alibaba,2020-2
+Stainless Steel Type 904L  UNS N08904,Metales,3.25,7900.00,200.00,200.00,490.00,35.00,148.00,186.00,1405.65,Matweb. Alibaba. Azom,2020-2
+ASTM A508 Grado 3V,Metales,1.00,7900.00,215.00,415.00,760.00,18.00,197.00,100.00,1802.15,Mathmatch. Costos,Argoty Avance 3
+Acero Austenitico ,Metales,3.80,7930.00,196.00,591.00,1020.00,35.50,265.00,60.00,1673.15,MatWeb . Alibaba,2020-2
+Acero inoxibale 316L,Metales,28.00,7990.00,187.00,290.00,558.00,50.00,185.00,195.00,1671.15,scielo Matweb. Quiminet,2020-2
+Acero Inóxidable 304,Metales,26.00,8000.00,193.00,215.00,505.00,70.00,129.00,174.00,1420.15,Matweb. Azo. Costo,Alejandro Castellanos Vargas
+Acero inoxidable recocido ASIS 321 ,Metales,0.70,8000.00,197.00,240.00,620.00,45.00,80.00,189.00,1688,Matweb,Pablo Galvis
+Aleación de Niquel Molybdenum,Metales,12.40,8130.00,195.00,300.00,690.00,40.00,170.50,143.00,1400,MatWeb. Costos,NIxon David Moreno
+M2 Molybdenum High Speed Steel,Metales,1.35,8160.00,200.00,325.00,2560.00,20.00,300.00,123.00,1500,Researchgate . Matweb . Azom . Alibaba,Diego Rojas
+ASTM A753 grade K94840,Metales,32.00,8180.00,166.00,159.00,518.00,40.00,154.00,186.00,1700.15,Mathmatch. Costos,Nixon David Moreno
+UNS C46400,Metales,7.82,8200.00,100.00,200.00,450.00,30.00,167.00,43.00,1163.00,http://www.matweb.com/. Propiedades,2020-2
+UNS C33500,Metales,6.00,8300.00,110.00,160.00,380.00,17.00,150.00,50.00,1173.00,http://www.matweb.com/. Propiedades,2020-2
+UNS C63000,Metales,9.44,8300.00,120.00,360.00,720.00,13.00,160.00,100.00,1413.00,http://www.matweb.com/. Propiedades,2020-2
+Bronce,Metales,11.50,8380.00,112.00,314.00,490.00,22.50,168.00,90.00,1283.15,MatWeb. Alibaba,2020-2
+UNS C28000 Brass Alloy,Metales,4.80,8390.00,110.00,140.00,360.00,52.00,578.00,65.00,480.85,Azom. Matweb. Alibaba,2020-2
+Latón,Metales,10.47,8490.00,106.00,255.00,430.00,32.00,363.00,80.00,1190.15,MatWeb. Alibaba,2020-2
+Copper-Cobalt-Beryllium Alloy UNS 17500,Metales,36.50,8750.00,127.50,620.00,757.50,15.00,219.00,33.00,1343.15,Matweb. Alibaba,2020-2
+Cobalto. Co,Metales,48.50,8802.00,211.00,156.00,255.00,7.80,125.00,67.00,3200,Matweb. Precio ,Jonathan Acevedo
+UNS C21000,Metales,10.00,8860.00,115.00,69.00,235.00,45.00,172.00,68.00,1323.00,http://www.matweb.com/. Propiedades,2020-2
+Niquel,Metales,18.70,8880.00,207.00,59.00,45.00,30.00,80.00,125.00,1728.15,Azom. Matweb. Precio ,Daisy Gutiérrez
+UNS C10100,Metales,9.00,8915.00,115.00,217.00,338.00,55.00,82.50,43.00,1353.00,http://www.matweb.com/. Propiedades. Precio,2020-2
+Cobre  Annealed,Metales,6.40,8930.00,110.00,46.00,140.00,60.00,153.00,35.00,1356.15,scielo Matweb. Quiminet,2020-2
+Cobre-Cold-Worked,Metales,5.44,8960.00,110.00,46.00,140.00,60.00,100.00,40.00,1356.15,scielo Matweb. Quiminet,2020-2
+Superaleación a base de cobalto. MAR-M 302. fundido,Metales,70.80,9200.00,222.50,690.00,932.50,2.00,400.00,135.00,1608,Ces Edupack 2019,ivan gongora 
+Molibdeno ASTM B386 R03600 (Metal refractario),Metales,630.00,10280.00,320.00,620.00,690.00,12.00,220.00,100.00,2896.15,Matmatch. Costos. Goodfellow,Laura Moreno
+Plata. Ag,Metales,707.23,10491.00,76.00,8.27,140.00,25.00,25.00,57.00,2435,Matweb. Precio ,Jonathan Acevedo
+Paladio recocido,Metales,77.60,11000.00,110.00,102.00,180.00,2.00,37.00,89.00,1826.5,MatWeb. Costos,Nixon David Moreno
+Paladio Pd,Metales,676.00,12000.00,117.00,100.00,180.00,2.00,37.00,67.00,1550,Matweb. Precio ,Nikolai Fandiño
+Tantalio UNS R05200,Metales,1199.00,16600.00,182.00,172.50,240.50,50.00,70.00,10.00,3163.15,MatWeb. Aliexpress,2020-2
+Oro sin trabajo en frio,Metales,234.70,19300.00,78.00,130.00,220.00,45.00,25.00,47.00,1337.15,Azom MatWeb. Costos,Nixon David Moreno
+Platino Pt,Metales,755.00,21500.00,168.00,100.00,165.00,35.00,40.00,40.00,2040,Matweb. Precio ,Nikolai Fandiño
+Silicon RTV  Room Temperature Vulcanizing,Polimeros,6.80,1.10,0.05,30.00,165.00,145.00,457.00,0.70,478.15,Matweb .  Alibaba . Azom,Diego Rojas
+Poliestireno (PS),Polimeros,0.80,30.00,3.20,30.00,50.00,2.50,75.00,0.40,543.15,Matweb. Costos. Propiedades,2020-2
+Celulosa,Polimeros,0.50,130.00,1.60,40.00,50.00,1.30,63.00,1.57,340.15,Matweb. Costos. Propiedades,2020-2
+ALM PA-840-GSL,Polimeros,30.00,420.00,2.30,33.00,48.00,4.00,200.00,0.47,473,Matweb,Pablo Galvis
+Etileno-Propileno,Polimeros,10.00,860.00,6.00,30.00,17.00,600.00,494.00,0.80,333.15,DesignerData .Matweb .Article .Precio,Laura Moreno
+Etileno propileno (dieno) (EPDM / EPM. no reforzado),Polimeros,2.04,870.00,0.00,2.00,2.00,600.00,1.50,1.14,221,Ces Edupack 2019,ivan gongora 
+EPDM,Polimeros,1.49,880.00,0.01,12.00,17.00,150.00,90.00,5.22,450.00,MatWeb.DMH.Erica,2020-2
+Polietileno de baja densidad (LDPE),Polimeros,1.28,921.00,0.23,10.60,24.20,32.00,48.10,0.34,381.00,Matweb. Propiedades. Costos,2020-2
+Acetato de vinilo de etileno,Polimeros,180.00,925.00,0.20,7.00,35.00,200.00,7.30,1.00,473.15,Matweb specialchem. indiamart,Diego  Rojas
+Prolipropileno (PP),Polimeros,3.00,930.00,1.70,29.80,31.60,143.00,68.60,2.65,433.00,Matweb. Costos. San Metal,2020-2
+Polietileno alta densidad (HDPE),Polimeros,2.00,954.00,0.97,21.60,28.90,10.80,64.40,4.23,404.00,Matweb. Alibaba,2020-2
+Adhesivo de Metacrilato,Polimeros,3.50,1000.00,0.98,0.03,40.00,42.50,458.00,1.20,302.55,MatWeb. Costos,NIxon David Moreno
+Caucho acrílico de etileno (AEM. no reforzado),Polimeros,9.23,1045.00,0.00,2.25,2.25,300.00,1.50,111.00,243,Ces Edupack 2019,ivan gongora 
+Poliamida 11,Polimeros,20.00,1045.00,1.85,15.00,47.00,280.00,296.00,0.93,533.15,DesignerData .Azom .Precio,Laura Moreno
+Polimetilpenteno. PMP (10-30% de fibra de vidrio),Polimeros,10.00,1050.00,1.10,23.45,28.75,5.50,7.00,1.25,513,Ces Edupack 2019,ivan gongora 
+Calsak CS-72 General Purpose ABS Resin,Polimeros,40.00,1050.00,2.55,42.10,72.40,30.00,109.00,0.77,379.15,Matweb. Costos,Argoty Avance 14
+Eter de polifenileno,Polimeros,3.80,1060.00,2.10,40.00,80.00,70.00,261.50,1.10,563.15,Matmatch. MatWeb. Costos,NIxon David Moreno
+NORYL™ Resin 731,Polimeros,49.00,1060.00,2.70,55.00,100.00,70.00,119.00,1.38,413.15,Mathmatch. Costos,Argoty Avance 11
+Adhesivo de cianoacrilato,Polimeros,250.00,1070.00,1.26,18.00,23.10,93.50,494.00,3.39,438.15,MatWeb. Alibaba ,2020-2
+ABS PC,Polimeros,1.67,1070.00,2.21,40.70,50.00,6.00,110.00,8.00,527.65,Filament.materialise.MatWeb,2020-2
+ABS,Polimeros,1.40,1070.00,2.32,40.40,45.00,28.00,82.30,1.32,514.00,Matweb. Costos,2020-2
+Estireno acrilonitrilo (SAN),Polimeros,0.87,1070.00,3.46,67.20,70.20,3.67,83.20,1.99,496.00,Matweb. Indiamart,2020-2
+Nylon 11 . No reforzado,Polimeros,50.00,1100.00,0.15,44.00,122.00,400.00,76.00,0.31,465.15,Matweb .  designerdata . Alibaba,Diego Rojas
+Epoxy,Polimeros,3.02,1100.00,2.42,72.40,96.50,70.35,121.00,2.12,448.00,MatWeb,2020-2
+Alcohol Etileno vinilico,Polimeros,5.00,1120.00,2.16,66.80,57.30,238.00,2519.00,1.24,449,Matweb,Pablo Galvis
+MPR (Shore A60). Caucho procesable por fusión.,Polimeros,11.80,1140.00,0.00,6.00,9.65,418.00,3.00,1.75,146,Ces Edupack 2019,ivan gongora 
+Copolimero de acetal (no reforzado),Polimeros,356.00,1140.00,6.14,9.25,38.20,36.50,73.50,1.23,310,Matweb. Precio ,Nikolai Fandiño
+Polietileno clorado (no reforzado). (CM / CPE),Polimeros,1.67,1155.00,0.00,12.50,12.50,700.00,4.00,0.18,256,Ces Edupack 2019,ivan gongora 
+Acrílico Extruido ,Polimeros,21.50,1160.00,2.55,73.70,57.70,16.50,145.00,2.50,491.15,MatWeb.Onlinemetals,2020-2
+PUR,Polimeros,5.00,1170.00,2.40,5.00,45.00,23.00,3.00,3.12,573.00,MatWeb.mexpolimero,2020-2
+Copolímero DMX1435,Polimeros,10.00,1170.00,2.45,80.00,60.00,40.00,327.00,0.21,295,Matmatch. Precio,Laura Moreno
+Polimetilmetacrilato (PMMA),Polimeros,3.00,1180.00,3.00,72.00,116.00,4.00,145.00,2.63,433.00,Matweb,2020-2
+LNP™ COLORCOMP™ Compound D1000ER,Polimeros,70.00,1190.00,2.64,62.00,96.00,130.00,118.00,1.00,427.15,Mathmatch. Costos,Argoty Avance 12
+Acrilico moldeado,Polimeros,2.80,1190.00,3.00,68.00,70.00,90.00,118.00,3.76,376.00,MatWeb,2020-2
+LEXAN™ Resin 161R,Polimeros,78.00,1200.00,2.35,63.00,90.00,120.00,104.00,1.00,418.15,Mathmatch. Costos,Argoty Avance 15 
+Nylon,Polimeros,4.00,1200.00,2.35,73.90,102.00,29.80,82.00,2.41,576.00,Matweb. Costos. Propiedades,2020-2
+Policarbonato. Moldeado,Polimeros,2.00,1200.00,2.38,62.60,64.00,84.10,127.00,1.14,563.15,MatWeb. Alibaba,2020-2
+Acetato de celulosa propionato,Polimeros,195.00,1210.00,1.85,22.00,41.00,50.00,220.00,1.30,523.15,Matweb. Matmatch . Precio,Laura Moreno
+Poliuretano  termoestable,Polimeros,16.00,1240.00,0.01,25.00,25.00,375.00,2.00,0.32,330,Matweb . Designerdata .  Alibaba,Diego Rojas
+Resina de policetona,Polimeros,3.10,1240.00,3.60,67.00,78.00,330.00,230.00,1.25,493.7,Matweb . Alibaba.  Prospector,Diego Rojas
+Silicona,Polimeros,3.00,1250.00,0.08,4.61,7.15,55.00,53.60,1.67,426.00,Matweb. Costos,2020-2
+SMA,Polimeros,20.00,1250.00,5.47,5.52,71.50,2.67,111.00,1.16,534,Matweb,Pablo Galvis
+Nylon 610. reforzado con vidrio,Polimeros,14.90,1255.00,9.50,138.00,215.00,6.00,613.00,1.70,510.15,MatWeb. Costos,NIxon David Moreno
+copoliéster PCTG,Polimeros,3.10,1259.00,2.13,42.00,53.00,9.50,48.00,2.30,522,Matweb. Precio ,Jonathan Acevedo
+PETG Copoliéster,Polimeros,9.50,1260.00,2.65,48.20,42.00,124.00,333.00,1.33,514.15,MatWeb. Aliababa,2020-2
+Caucho butílico,Polimeros,4.00,1270.00,0.00,8.00,10.00,400.00,235.00,0.88,403.15,Industria . Matweb  .Precio .Cheg,Laura Moreno
+Polieterimida Resin 100P,Polimeros,31.00,1270.00,3.58,137.50,281.00,60.00,354.00,1.24,491.15,MatWeb. Costos,NIxon David Moreno
+Policarbonato 10% de vidrio,Polimeros,3.00,1270.00,3.77,66.60,68.50,5.72,117.00,2.32,569.00,Matweb. Costos,2020-2
+Polieteretercetona,Polimeros,78.00,1275.00,3.85,91.10,110.00,40.00,27.30,3.52,616.15,Propiedades. Precio ,Daisy Gutiérrez
+PLA,Polimeros,25.00,1290.00,2.91,38.00,47.60,63.80,65.80,2.95,463.00,Matweb. Costos. Propiedades,2020-2
+Polibenzimidazol (PBI),Polimeros,8.11,1300.00,5.85,110.00,160.00,3.00,33.58,0.12,150,Matmatch. Matweb. Propiedades. Precio,Daisy Gutiérrez
+PBTP,Polimeros,3.00,1310.00,2.38,103.00,130.00,60.00,119.00,5.00,494.00,MatWeb.mexpolimero,2020-2
+CA,Polimeros,3.13,1310.00,2.41,26.00,37.00,56.00,92.00,2.94,368.00,mexpolimero.ACBlog,2020-2
+PETG Copoliéster,Polimeros,1.30,1329.00,20.30,58.60,68.90,4.20,57.00,1.70,553,Matweb.  Precio ,Jonathan Acevedo
+Peek,Polimeros,120.00,1330.00,3.90,55.00,97.70,24.70,85.60,3.17,646.00,Matweb. Alibaba,2020-2
+Poliimida,Polimeros,50.00,1340.00,6.31,88.80,95.20,8.99,85.60,1.06,646.00,Matweb. Alibaba,2020-2
+Copolímero de acetal modificado al impacto,Polimeros,50.00,1350.00,1.70,44.40,39.90,77.70,156.00,1.61,461.15,MatWeb.Alibaba. Ensingerplastics,2020-2
+Nylon 12,Polimeros,4.23,1350.00,4.65,42.40,79.30,72.90,129.00,1.04,506.15,MatWeb.   Mercado libre,2020-2
+Resina de curado epoxi,Polimeros,25.00,1350.00,35.20,563.00,33.10,2.77,80.20,1.33,189,Matweb,Pablo Galvis
+PVC,Polimeros,0.89,1370.00,0.04,13.60,15.40,307.00,49.60,0.74,478.00,Matweb. Costos,2020-2
+Polieterimida (PEI),Polimeros,14.00,1370.00,7.52,115.00,127.00,20.20,162.00,1.77,640.15,MatWeb . Alibaba,2020-2
+Película de Poliéster,Polimeros,2.70,1380.00,3.65,92.80,177.00,135.00,2.70,2.06,527.15,MatWeb. Alibaba,2020-2
+Delrin 100CPE NC010,Polimeros,1.64,1410.00,2.90,71.00,90.00,45.00,120.00,3.00,433.00,MatWeb..CamPlastic,2020-2
+Homopolimero de acetal no reforzado,Polimeros,1.50,1410.00,2.99,66.00,64.50,35.00,184.00,4.04,477.15,MatWeb. Alibaba,2020-2
+Delrin 500CL NC010,Polimeros,1.90,1410.00,3.10,67.00,80.00,25.00,120.00,7.00,451.00,MatWeb.CamPlastic,2020-2
+Stanyl® TW200F6,Polimeros,20.00,1410.00,10.00,250.00,300.00,3.50,241.00,1.60,568.15,Mathmatch. Costos,Argoty Avance 13
+MOS2 (Reforzado),Polimeros,601.00,1410.00,78.00,2.60,5.00,28.00,58.00,34.00,443.2,Matweb. Precio ,Nikolai Fandiño
+Copolimero de Acetal Kolon Kocetal,Polimeros,202.00,1410.00,85.00,34.00,65.00,35.00,80.00,3.50,440,Matweb. Precio ,Nikolai Fandiño
+Delrin 111DP NC010,Polimeros,0.87,1420.00,3.20,72.00,95.00,40.00,122.00,5.00,451.00,MatWeb.CamPlastic.Plastic,2020-2
+PET,Polimeros,0.41,1450.00,3.10,176.00,206.00,175.00,82.30,3.01,519.00,Matmach. Propiedades. Costo,2020-2
+Polimero de cristal líquido (LCP),Polimeros,3.15,1450.00,13.30,146.00,151.00,2.02,65.60,0.78,530.15,Matweb . Propiedades. Precio ,Daisy Gutiérrez
+CPVC,Polimeros,1.48,1470.00,2.40,35.00,50.30,12.00,116.00,0.93,376.00,MatWeb.TecPoli,2020-2
+Polietersulfona PES,Polimeros,28.00,1490.00,7.46,109.00,114.00,6.15,298.00,3.38,635.15,MatWeb. Alibaba,2020-2
+Poliftalamida (PPA),Polimeros,253.00,1500.00,13.50,162.00,166.00,3.68,298.00,3.89,594.15,MatWeb. Goodfellowusa,2020-2
+Copolimero acetalico,Polimeros,170.00,1580.00,11.70,55.00,73.00,65.00,232.00,1.90,459.15,Matweb .Azom. Goodfellow,Laura Moreno
+Poliarilamide. relleno de fibra de vidrio,Polimeros,100.00,1610.00,18.20,188.00,217.00,1.99,10.00,1.93,543.15,MatWeb. Goodfellowusa . Goodfellowusa ,2020-2
+Sulfuro de polifenileno (PPS),Polimeros,2.50,1680.00,7.13,63.80,85.30,12.00,96.30,1.56,554.00,Matweb. Indiamart,2020-2
+PPS,Polimeros,3.40,1755.00,9.85,75.00,150.00,55.00,96.00,0.52,555.00,MatWeb.upv,2020-2
+Poliéster Termoendurecido SMC,Polimeros,7.50,1770.00,12.50,72.70,101.00,0.57,171.00,2.42,444.15,MatWeb. Alibaba,2020-2
+PEI,Polimeros,1.95,1780.00,39.40,81.00,101.40,15.00,127.00,4.00,511.00,MatWeb,2020-2
+Epoxy con fibra de vidrio,Polimeros,4.50,1790.00,21.40,58.10,319.00,1.57,86.20,2.06,349.50,Matweb. Alibaba,2020-2
+Melamina laminada,Polimeros,1.51,1800.00,13.75,42.70,53.40,0.60,12.85,4.31,618.15,Matmatch. Propiedades. Precio,Daisy Gutiérrez
+polietersulfona (PES),Polimeros,5.00,1849.00,36.60,178.00,325.00,2.10,72.00,1.20,873,Matweb. Precio ,Jonathan Acevedo
+policarbonato / tereftalato de polibutileno (PBT). sin reforzar,Polimeros,0.27,1899.00,11.00,72.00,108.00,6.00,63.20,4.20,544,Matweb. Precio ,Jonathan Acevedo
+VITON,Polimeros,4.00,1931.00,12.00,15.00,21.00,225.00,70.00,2.79,505.00,MatWeb.RGP.ElaPlas,2020-2
+Etileno propileno fluorado,Polimeros,5.00,1990.00,0.42,50.00,24.50,349.00,56.30,0.14,534,Matweb,Pablo Galvis
+Politetrafluoroetileno (PTFE),Polimeros,10.00,2070.00,0.56,20.50,34.80,299.00,101.00,5.39,596.15,MatWeb. Alibaba,2020-2
+Perfluoroalcoxi (PFA),Polimeros,20.00,2120.00,0.62,24.10,27.60,2.00,633.00,0.90,559.15,MatWeb. Costos,NIxon David Moreno
+Teflón,Polimeros,15.00,2170.00,0.48,20.70,34.80,300.00,6.20,1.56,600.15, Propiedades . Precio,Daisy Gutiérrez
+BMC relleno de vidrio de poliéster termoestable,Polimeros,4.25,2201.00,25.00,129.00,224.00,1.00,42.00,0.80,561,Matweb. Precio ,Jonathan Acevedo
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
